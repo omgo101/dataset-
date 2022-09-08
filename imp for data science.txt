@@ -1,0 +1,4 @@
+django
+evaliuation table 
+Black–Scholes model
+lazy predictors       
